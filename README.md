@@ -8,3 +8,6 @@ Lesson 2: CSS basics (Set the class attribute and set the css properties)
 
 Lesson 3: Pseudoclass(hover, active), CSS properties(transition, opacity, box-shadow)
 >> Date: 2025-07-11 
+
+Lesson 4: Chrome DevTools & CSS Box Model(padding, margin, vertical align)
+>> Date: 2025-07-14
