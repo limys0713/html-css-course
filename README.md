@@ -11,3 +11,5 @@ Lesson 3: Pseudoclass(hover, active), CSS properties(transition, opacity, box-sh
 
 Lesson 4: Chrome DevTools & CSS Box Model(padding, margin, vertical align)
 >> Date: 2025-07-14
+
+Lesson 5: Text Styles(line-height, font-family) & Elements(<strong></strong>, <u></u>, <span></span>)
