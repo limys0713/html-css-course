@@ -14,3 +14,6 @@ Lesson 4: Chrome DevTools & CSS Box Model(padding, margin, vertical align)
 
 Lesson 5: Text Styles(line-height, font-family) & Elements(strong, span, u)
 > Date: 2025-07-16
+
+Lesson 6: HTML structure(html, head, body) & title, link, google fonts for using 
+> Date: 2025-07-17
