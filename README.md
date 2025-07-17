@@ -17,3 +17,6 @@ Lesson 5: Text Styles(line-height, font-family) & Elements(strong, span, u)
 
 Lesson 6: HTML structure(html, head, body) & title, link, google fonts for using 
 > Date: 2025-07-17
+
+Lesson 7: Images & Text Boxes
+> Date: 2025-07-17
