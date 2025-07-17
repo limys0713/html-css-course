@@ -1,0 +1,26 @@
+p {
+    font-family: Arial;
+    margin: 0px 0px;
+    font-size: 18px;
+}
+
+.tweet-author {
+    margin-bottom: 5px;
+}
+.author-name {
+    font-weight: bold;
+}
+.author-id-time {
+    color: gray;
+}
+
+.tweet-first-content {
+    width: 600px;
+    margin-bottom: 15px;
+    line-height: 22px;
+}
+
+.tag-link {
+    color: rgb(7, 135, 200);
+    text-decoration: none;
+}
