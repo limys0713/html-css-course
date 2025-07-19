@@ -20,3 +20,6 @@ Lesson 6: HTML structure(html, head, body) & title, link, google fonts for using
 
 Lesson 7: Images & Text Boxes
 > Date: 2025-07-17
+
+Lesson 8: CSS Display Property(block, inline block, inline)
+> Date: 2025-07-18
