@@ -1,0 +1,12 @@
+.survey-inquiry,
+.yes-button,
+.no-button {
+    font-family: Arial;
+}
+
+.survey-inquiry {
+    display: inline-block;
+    width: 210px;
+    vertical-align: middle;
+    margin-right: 8px;
+}

@@ -1,0 +1,10 @@
+.name-textbox,
+.email-textbox {
+    border-color: grey;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 2px;
+    display: block;
+    padding: 3px 3px;
+    margin-bottom: 6px;
+}

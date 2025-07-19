@@ -1,0 +1,38 @@
+.title-text {
+    font-family: Arial;
+    font-size: 36px;
+    margin-bottom: 26px;
+    margin-top: 10px;
+}
+
+input {
+    display: block;
+    border: none;
+    background-color: rgb(242, 242, 242);
+    width: 350px;
+    font-size: 14px;
+    padding: 15px 15px;
+}
+
+.pickup-location-textbox {
+    margin-bottom: 6px;
+}
+
+.destination-textbox {
+    margin-bottom: 30px;
+}
+
+.request-now-button {
+    background-color: black;
+    color: white;
+    padding: 11px 18px;
+    border: none;
+    margin-right: 12px;
+}
+
+.schedule-later-button {
+    background-color: rgb(242, 242, 242);
+    color: black;
+    padding: 11px 18px;
+    border: none;
+}
