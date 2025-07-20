@@ -23,3 +23,6 @@ Lesson 7: Images & Text Boxes
 
 Lesson 8: CSS Display Property(block, inline block, inline)
 > Date: 2025-07-18
+
+Lesson 9: The div Element(like a container)
+> Date: 2025-07-20
