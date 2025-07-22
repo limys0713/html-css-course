@@ -1,0 +1,12 @@
+.grid-class {
+    display: grid;
+    grid-template-columns: 200px 75px;
+}
+
+.px200 {
+    background-color: skyblue;
+}
+
+.px75 {
+    background-color: rgb(226, 84, 84);
+}
