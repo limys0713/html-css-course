@@ -1,0 +1,19 @@
+.flex {
+    display: flex;
+    flex-direction: row;
+}
+
+.px50 {
+    width: 50px;
+    background-color: lightblue;
+}
+
+.fr1 {
+    background-color: lightpink;
+    flex: 1;
+}
+
+.px75 {
+    width: 75px;
+    background-color: lightblue;
+}
