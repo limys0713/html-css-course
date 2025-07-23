@@ -32,3 +32,6 @@ Lesson 10: Nested Layout Technique(horizontal & vertical technique)
 
 Lesson 11: CSS Grid(row & col)
 > Date: 2025-07-21
+
+Lesson 12: Flexbox(more flexible than grid)
+> Date: 2025-07-23
