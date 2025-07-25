@@ -1,0 +1,26 @@
+body {
+    height: 3000px;
+}
+
+
+.relative-position {
+    width: 400px;
+    height: 400px;
+    position: relative;
+}
+
+.image {
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+}
+
+.promotion-tag {
+    background-color: lightpink;
+    font-family: Arial;
+    font-size: 14px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 5px 5px;
+}

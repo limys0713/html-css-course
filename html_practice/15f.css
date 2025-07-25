@@ -1,0 +1,48 @@
+body {
+    height: 3000px;
+}
+
+
+.relative-position {
+    width: 400px;
+    height: 400px;
+    position: relative;
+}
+
+.image {
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+}
+
+.promotion-tag {
+    background-color: lightpink;
+    font-family: Arial;
+    font-size: 14px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 5px 5px;
+}
+
+.add-background {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 100px;
+    background-color: rgba(255, 182, 196, 0.6);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.add-to-cart-button {
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    font-family: Arial;
+    font-weight: 600;
+    padding: 8px 16px;
+}
