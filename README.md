@@ -38,3 +38,6 @@ Lesson 12: Flexbox(more flexible than grid)
 
 Lesson 13: Nested Flexbox
 > Date: 2025-07-24
+
+Lesson 14: CSS Position(fixed)
+> Date: 2025-07-25
