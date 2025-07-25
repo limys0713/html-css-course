@@ -1,0 +1,13 @@
+body {
+    height: 3000px;
+}
+
+.entire-page {
+    background-color: black;
+    color: white;
+    position: fixed;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+}

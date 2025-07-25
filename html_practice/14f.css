@@ -1,0 +1,62 @@
+.double-sidebar {
+    display: flex;
+    flex-direction: row;
+}
+
+.image-sidebar {
+    width: 50px;
+    position: fixed;
+    background-color: black;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    padding-top: 10px;
+}
+
+.profile-picture {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    object-fit: cover;
+    margin-bottom: 4px;
+}
+
+.channel-sidebar {
+    width: 130px;
+    position: fixed;
+    background-color: rgb(53, 53, 53);
+    top: 0;
+    bottom: 0;
+    left: 50px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 15px;
+}
+
+.title-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 6px;
+}
+
+.title {
+    color: white;
+    font-family: Arial;
+    font-size: 12px;
+}
+
+.create-new {
+    color: gray;
+    font-family: Arial;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.channel-name {
+    color: gray;
+    font-family: Arial;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
