@@ -11,15 +11,34 @@
     justify-content: space-between;
 }
 
+.left-section {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 23px;
+}
+
 .hamburger-menu-icon {
-    width: 30px;
-    height: 30px;
+    width: 23px;
+    height: 23px;
     object-fit: cover;
+    margin-right: 26px;
 }
 
 .youtube-logo-icon {
-    height: 30px;
+    height: 20px;
     object-fit: cover;
+}
+
+.middle-section {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.search-input {
+    padding: 10px;
+    width: 350px;
 }
 
 .search-icon {
@@ -34,26 +53,36 @@
     object-fit: cover;
 }
 
+.right-section {
+    width: 180px;
+    padding-right: 25px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
 .upload-icon {
-    width: 30px;
-    height: 30px;
+    width: 24px;
+    height: 24px;
     object-fit: cover;
 }
 
 .youtube-apps-icon {
-    width: 30px;
-    height: 30px;
+    width: 24px;
+    height: 24px;
     object-fit: cover;
 }
 
 .notifications-icon {
-    width: 30px;
-    height: 30px;
+    width: 24px;
+    height: 24px;
     object-fit: cover;
 }
 
 .my-channel-profile-picture {
-    width: 30px;
-    height: 30px;
+    width: 32px;
+    height: 32px;
     object-fit: cover;
+    border-radius: 16px;
 }
