@@ -1,0 +1,44 @@
+.left-sidebar {
+    background-color: lightpink;
+    position: fixed;
+    top: 55px;
+    left: 0;
+    bottom: 0;
+    width: 70px;
+}
+
+.home-icon {
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+}
+
+.explore-icon {
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+}
+
+.subscriptions-icon {
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+}
+
+.originals-icon {
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+}
+
+.youtube-music-icon {
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+}
+
+.library-icon {
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+}
