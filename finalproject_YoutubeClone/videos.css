@@ -1,7 +1,7 @@
 .videos {
     position: absolute;
     top: 80px;
-    left: 80px;
+    left: 90px;
     right: 0;
 }
 
@@ -50,7 +50,6 @@
 p {
     margin: 0;
 }
-
 
 .video-title {
     font-size: 14px;
