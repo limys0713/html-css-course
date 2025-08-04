@@ -23,33 +23,70 @@
     height: 23px;
     object-fit: cover;
     margin-right: 26px;
+    cursor: pointer;
 }
 
 .youtube-logo-icon {
     height: 20px;
     object-fit: cover;
+    cursor: pointer;
 }
 
 .middle-section {
+    margin-left: 28px;
     display: flex;
     flex-direction: row;
     align-items: center;
 }
 
 .search-input {
-    padding: 10px;
-    width: 350px;
+    font-size: 16px;
+    line-height: 18px;
+    padding: 10px 10px;
+    width: 340px;
+    border-width: 1px;
+    border-color: rgb(175, 175, 175);
+    border-style: solid;
+    border-radius: 2px;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+
+.search-icon-button {
+    margin-left: -2px;
+    margin-right: 10px;
+    padding: 7px 20px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-width: 1px;
+    border-color: rgb(175, 175, 175);
+    border-style: solid;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
 }
 
 .search-icon {
-    width: 30px;
-    height: 30px;
+    width: 24px;
+    height: 24px;
     object-fit: cover;
 }
 
+.voice-search-button {
+    display: flex;
+    width: 38px;
+    height: 38px;
+    border-radius: 19px;
+    border: none;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
 .voice-search-icon {
-    width: 30px;
-    height: 30px;
+    width: 25px;
+    height: 25px;
     object-fit: cover;
 }
 
@@ -66,18 +103,40 @@
     width: 24px;
     height: 24px;
     object-fit: cover;
+    cursor: pointer;
 }
 
 .youtube-apps-icon {
     width: 24px;
     height: 24px;
     object-fit: cover;
+    cursor: pointer;
+}
+
+.notifications-relative {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
 }
 
 .notifications-icon {
     width: 24px;
     height: 24px;
     object-fit: cover;
+    cursor: pointer;
+}
+
+.new-notifications {
+    position: absolute;
+    background-color: red;
+    color: white;
+    font-size: 10px;
+    line-height: 11px;
+    border-radius: 25px;
+    padding: 1px 4px;
+    top: -1px;
+    right: -2px;
 }
 
 .my-channel-profile-picture {
@@ -85,4 +144,5 @@
     height: 32px;
     object-fit: cover;
     border-radius: 16px;
+    cursor: pointer;
 }
