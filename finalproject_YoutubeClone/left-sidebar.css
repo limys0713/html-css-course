@@ -1,44 +1,31 @@
 .left-sidebar {
-    background-color: lightpink;
     position: fixed;
     top: 55px;
     left: 0;
     bottom: 0;
-    width: 70px;
+    width: 75px;
+    display: grid;
+    grid-template-columns: 75px;
+    grid-auto-rows: 75px;   /* Has set vertical space, so by default, grid will distribute same space to each row inside that vertical space */
+    font-size: 10px;
 }
 
-.home-icon {
-    width: 30px;
-    height: 30px;
-    object-fit: cover;
+.icons-div {
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
 }
 
-.explore-icon {
-    width: 30px;
-    height: 30px;
-    object-fit: cover;
+.icons-div:hover {
+    background-color: rgb(224, 224, 224);
 }
 
-.subscriptions-icon {
-    width: 30px;
-    height: 30px;
+.left-sidebar img {
+    width: 25px;
+    height: 25px;
     object-fit: cover;
-}
-
-.originals-icon {
-    width: 30px;
-    height: 30px;
-    object-fit: cover;
-}
-
-.youtube-music-icon {
-    width: 30px;
-    height: 30px;
-    object-fit: cover;
-}
-
-.library-icon {
-    width: 30px;
-    height: 30px;
-    object-fit: cover;
+    margin-bottom: 6px;
 }
